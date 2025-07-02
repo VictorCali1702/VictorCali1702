@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictorCali1702
-- 👀 I’m interested in Python, SQL, Linux and Cybersecurity
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Data Analytics, Python, SQL, Linux and Cybersecurity
+- 🌱 I’m currently learning Data Science, Python, Pandas and scikit-learn :)
+- 💞️ I’m looking to collaborate on some internships 
 - 📫 How to reach me: gmail: wiktor.naczk199@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
