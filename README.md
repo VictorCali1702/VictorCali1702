@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @VictorCali1702
-- 👀 I’m interested in Data Science, Data Analytics, Python, SQL, Linux and Cybersecurity
+- 👀 I’m interested in Data Science, Data Analytics, Python, C#, SQL, Linux and Cybersecurity
 - 🌱 I’m currently learning Data Science, Python, Pandas and scikit-learn :)
 - 💞️ I’m looking to collaborate on some internships 
 - 📫 How to reach me: gmail: wiktor.naczk199@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 VictorCali1702/VictorCali1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
